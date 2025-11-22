@@ -4,25 +4,19 @@ This repository contains a structured archive of my professional credentials in 
 
 ## Personal Background
 
-My interest in technology and drive for development started in childhood. From preschool age, I had a genuine curiosity for electrical engineering: I studied how things work inside, and already then I knew I would become an electrician.
+My drive for development and interest in technology started in childhood. From preschool age, I had a genuine curiosity about electronics: I studied how things work inside, and already then I knew I would link my professional career with electrical engineering.
 
-After school, I graduated with honors from a Vocational School (May 19, 2006), earning a diploma in the profession of "electrician for repair and maintenance of electrical equipment" with an advanced 4th grade. At the same time, I completed training at ROSTO (DOSAAF) as a "specialist in electrical signaling and blocking devices."
+After school, I graduated with honors from a Vocational School, earning a diploma in the profession of "electrician for repair and maintenance of electrical equipment" with an advanced 4th grade. At the same time, I completed training at ROSTO (DOSAAF) as a "specialist in electrical signaling and blocking devices."
 
-After military service, I continued to work in the energy sector, constantly honing my skills. My interest in related fields allowed me to acquire diverse skills, including household appliance and electronics repair, as well as microchip programming.
+After military service, I continued working in the energy sector, constantly honing my skills: assembling server racks and control cabinets, as well as installing 110 kV substations. My interest in related fields allowed me to acquire diverse skills, including repair of electronics and household appliances, as well as microchip programming.
 
-My IT journey began in the early 2000s with self-study of programming, computer hardware, and software, which I mastered with ease.
+My IT journey began in the early 2000s with self-study of programming, computer hardware, and software, which I mastered easily. Languages and technologies I learned include: Delphi, HTML, CSS, PHP, JavaScript, disassembly and debugging using OllyDbg and SoftIce.
 
-- Languages and technologies: Delphi, HTML, CSS, PHP, JavaScript.
+I developed and maintained several websites. During the migration of the "Electromontage Works" site from HTML to PHP, I implemented an online work cost calculator with a discount system.
 
-- Low-level programming: disassembly and debugging using OllyDbg, SoftIce.
+After completing courses at Stepik and Skillbox ("Python Developer Profession"), I developed software for prosecutors' offices, which is used by anti-corruption units during inspections related to the enforcement of anti-corruption legislation.
 
-- Practical experience: development and maintenance of several websites, including an online work cost calculator with a discount system (migrated from HTML to PHP).
-
-Despite my abilities, I did not professionally pursue this path then. I returned to programming at age 34, completing courses at Stepik and Skillbox ("Python Developer Profession").
-
-A key Python project involved developing software for prosecutors' offices, used by anti-corruption units to check compliance with anti-corruption legislation.
-
-In 2025, realizing the need for systematic IT education, I enrolled at BSTU, Faculty of Information Technology, specializing in "Information Security."
+Currently, I am studying at university in the Faculty of Information Technology, specializing in "Information Security."
 
 ## Organization
 
