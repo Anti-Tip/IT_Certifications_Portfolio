@@ -56,10 +56,8 @@ You can navigate the directories to find certificates categorized by year and di
 
 ---
 
-This repository will be continuously updated with new certificates.
+This repository will be updated with new certificates.
 
 ---
-
-### Highlighted Certificate
 
 ![Skillbox Python Developer Certificate](certs_by_year/25/skillbox_py_dev.png)
