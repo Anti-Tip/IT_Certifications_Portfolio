@@ -16,7 +16,7 @@ I developed and maintained several websites. During the migration of the "Electr
 
 After completing courses at Stepik and Skillbox ("Python Developer Profession"), I developed software for prosecutors' offices, which is used by anti-corruption units during inspections related to the enforcement of anti-corruption legislation.
 
-Currently, I am studying at university in the Faculty of Information Technology, specializing in "Information Security."
+Currently, I am studying at university in the Faculty of Information Technology, specializing in "Information Security," which will allow me to deepen and systematize my knowledge.
 
 ## Organization
 
