@@ -52,12 +52,14 @@ Some folders also include certificate files in PDF and image formats. For exampl
 - `certs_by_year/22/stepik-certificate-58852-fd6cea6eng.pdf`
 - `certs_by_direction/Python/skillbox_py_dev.png`
 
-![Skillbox Python Developer Certificate](certs_by_year/25/skillbox_py_dev.png)
-
-- `certs_by_direction/English_Language/duolingo-ce5ee025.jpg`
-
 You can navigate the directories to find certificates categorized by year and direction.
 
 ---
 
 This repository will be continuously updated with new certificates.
+
+---
+
+### Highlighted Certificate
+
+![Skillbox Python Developer Certificate](certs_by_year/25/skillbox_py_dev.png)
