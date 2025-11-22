@@ -8,5 +8,5 @@ This folder contains certificates related to Python programming.
 ![skillbox certificate 3](skillbox_py_1000062018.jpg)
 ![skillbox developer certificate](skillbox_py_dev.png)
 
-[stepik certificate 58852](stepik-certificate-58852-fd6cea6eng.pdf)
-[stepik certificate 68343](stepik-certificate-68343-df1ba00eng.pdf)
+![stepik certificate 58852](png/stepik-certificate-58852-fd6cea6eng-1.png)
+![stepik certificate 68343](png/stepik-certificate-68343-df1ba00eng-1.png)
